@@ -7,7 +7,7 @@ permalink: /resume/
 # Yasser Siddiqui
 
 **Data Scientist** <br>
-Burtonsville, MD | 240-605-4927 | syasser126@gmail.com | https://github.com/EKYS12 | https://www.linkedin.com/in/yasser-siddiqui/<br>
+Burtonsville, MD \| 240-605-4927 \| syasser126@gmail.com \| https://github.com/EKYS12 \| https://www.linkedin.com/in/yasser-siddiqui/<br>
 
 ---
 
@@ -19,7 +19,7 @@ Burtonsville, MD | 240-605-4927 | syasser126@gmail.com | https://github.com/EKYS
 
 **Relevant Experience**<br>
 
-**Data Science Immersive** | General Assembly | Remote | March 2023 - July 2023<br>
+**Data Science Immersive** \| General Assembly \| Remote \| March 2023 - July 2023<br>
 
 Successfully completed 480* hours of expert led instruction in Python, Exploratory Data Analysis, and Machine Learning, including:<br>
 
@@ -29,7 +29,7 @@ Successfully completed 480* hours of expert led instruction in Python, Explorato
 
 <br>
 
-**Research Assistant** | UMBC Economics Department | Catonsville, MD | Jan 2017 - Dec 2017<br>
+**Research Assistant** \| UMBC Economics Department \| Catonsville, MD \| Jan 2017 - Dec 2017<br>
 
 Provided assistance to the Maria Bernedo Del Carpio for her research in the paper “Community-based monitoring to facilitate water management by local institutions in Costa Rica”<br>
 
@@ -38,7 +38,7 @@ Provided assistance to the Maria Bernedo Del Carpio for her research in the pape
 
 <br>
 
-**Assistant Manager** | Ledos Pizza | Forestville, MD | October 2020 - November 2022<br>
+**Assistant Manager** \| Ledos Pizza \| Forestville, MD \| October 2020 - November 2022<br>
 
 * Demonstrated strong leadership skills by managing daily operations, including opening and closing the restaurant, managing cash registers, and ensuring accurate recording of daily sales.  <br>
 * Successfully onboarded new staff members by training them on restaurant policies and procedures, resulting in increased efficiency and improved customer service.<br>
@@ -48,8 +48,8 @@ Provided assistance to the Maria Bernedo Del Carpio for her research in the pape
 
 **Education**<br>
 
-General Assembly | Data Science Immersive | Remote<br>
-Economics Bachelor's of Arts | University of Maryland Baltimore County | Catonsville, MD<br>
-Google Data Analytics | Google & Coursera | Remote<br>
+General Assembly \| Data Science Immersive \| Remote<br>
+Economics Bachelor's of Arts \| University of Maryland Baltimore County \| Catonsville, MD<br>
+Google Data Analytics \| Google & Coursera \| Remote<br>
 
 
