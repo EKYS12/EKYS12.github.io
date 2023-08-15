@@ -48,7 +48,7 @@ Provided assistance to the Maria Bernedo Del Carpio for her research in the pape
 
 **Education**<br>
 
-General Assembly \| Data Science Immersive \| Remote<br>
+Data Science Immersive \| General Assembly \| Remote<br>
 Economics Bachelor's of Arts \| University of Maryland Baltimore County \| Catonsville, MD<br>
 Google Data Analytics \| Google & Coursera \| Remote<br>
 
